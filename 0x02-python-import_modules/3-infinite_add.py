@@ -2,7 +2,7 @@
 
 from sys import argv
 
-if __name__ == "__main__"
+if __name__ == "__main__":
     arg_num = len(argv) - 1
     if arg_num == 0:
         print("{}".format(arg_num))
